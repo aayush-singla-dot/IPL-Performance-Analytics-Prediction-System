@@ -1,0 +1,17 @@
+# Ignore raw and processed data
+data/raw/
+data/processed/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# Models (optional)
+models/*.pkl
+
+# System files
+.DS_Store
+Thumbs.db
